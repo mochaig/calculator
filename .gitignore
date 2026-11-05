@@ -5,3 +5,5 @@ keep-demo.log
 *.log
 key
 notes.txt
+.venv/
+.pytest_cache/
