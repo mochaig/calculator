@@ -1,6 +1,6 @@
 # SSCM4910 lab project - a four-operation calculator
 def add(a, b):
-	return a + b
+	return a + a
 
 def subtract(a, b):
 	return a - b
